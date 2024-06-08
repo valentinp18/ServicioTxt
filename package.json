@@ -5,6 +5,7 @@
   "type": "module",
   "module": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -17,3 +18,4 @@
     "node-fetch": "^3.3.2"
   }
 }
+
